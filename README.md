@@ -7,10 +7,10 @@ copy the link for one of the below versions to mendeley in your document and app
 read below to pick a version.
 
 ## here's a quick video for this:
-[Youtube example]()
+[Youtube example](https://youtu.be/6VfeikOukpE)
 
 ## here's a starter file with some of the stylings included:
-[Thesis starter file]()
+[Thesis starter file](https://docs.google.com/document/d/1Af2AvBhDwRA2wkmztc56oD_aQsOZCkSp/edit?usp=drive_link&ouid=100480536885801924787&rtpof=true&sd=true)
 
 - Version 1: `https://csl.mendeley.com/styles/707862761/uoj-moe-elsadig`
 - Version 2: `https://csl.mendeley.com/styles/707862761/uoj-moe-elsadig-2`
